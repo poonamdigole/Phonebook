@@ -1,0 +1,17 @@
+.contact-card{
+    width: 300px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 13px auto;
+    background-color: aquamarine;
+    box-shadow: 2px 2px 5px 2px gray;
+    transition: 1s;
+
+}
+.contact-card:hover {
+    transform: scale(1.06);
+}
+.user-name {
+    margin: 5px;
+}
